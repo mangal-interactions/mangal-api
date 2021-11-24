@@ -32,6 +32,7 @@ build/Release
 
 # Dependency directories
 node_modules
+config/db.json
 jspm_packages
 
 # Optional npm cache directory
@@ -43,3 +44,7 @@ jspm_packages
 # Ignore dump 
 *.dump
 migration
+
+updates.txt
+
+models/relations.js
